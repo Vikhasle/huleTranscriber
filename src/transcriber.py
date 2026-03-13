@@ -1,5 +1,6 @@
 import whisper
 import sys
+import os
 
 
 def transcribe(model, path) -> str:
@@ -11,12 +12,8 @@ def transcribe(model, path) -> str:
     return whisper.decode(model, mel, opt).text
 
 
-def enrich(raw_text: str) -> str:
-    return raw_text
-
-
 def main():
-    model = whisper.load_model("turbo")
+    model = whisper.load_model("base.en")
     if len(sys.argv) != 2:
         print("Usage: python transcribe /path/to/audio.mp3")
         exit(1)
