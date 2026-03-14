@@ -1,0 +1,175 @@
+﻿Martine
+Tini
+Helm
+Martine Grael
+Goodie
+Paul
+P6
+Paul Goodison
+Maso
+Booth
+Rich
+Richard Mason
+Raz
+Razzer
+FC
+Flight
+Rasmus Køstner
+Pietro
+Wing
+Pietro Sibello
+Marco
+G2
+Marco Grael
+Mateus
+G1
+Mateus Isaac
+Brenno Kneipp
+G2
+PB
+Paul B
+Paul Brotherton
+Racemanagement
+Salvage
+Salvage one
+Umpire
+Broadcast
+Safety One
+Medic
+3POB
+4POB
+5POB
+6POB
+Prestart
+box
+entry
+T1
+T2
+X-point
+black area, in the black
+Boundary
+pin end
+boat end
+midt line
+M1
+Top gate, windward gate
+Bottom gate, leeward gate
+Finish
+zone
+Protest
+3 MP
+3 MS
+3 F
+4 MP
+4 MS
+4 F
+5 F
+5 MP
+5 MS
+6 F
+6 MS
+6 MP
+follow the rows
+front row
+ladderline up
+ladderline down
+chicken up
+Frechy
+Aussie
+on your hip
+on your quarter
+at 1 o’clock
+at 2 o’clock
+at 3 o’clock
+at 4 o’clock
+at 5 o’clock
+at 6 o’clock
+at 7 o’clock
+at 8 o’clock
+at 9 o’clock
+at 10 o’clock
+at 11 o’clock
+at 12 o’clock
+TTK
+Ratio
+VMG angle
+tack and push
+high and slow
+Bora
+Eagle
+Koala
+JK
+touch & go
+one man
+lock in
+flip flop
+glide
+One and in
+Layline
+laying
+not laying
+crossing
+marginal cross
+dip
+Australia
+Aussies
+Canada
+Denmark
+Rockwool
+France
+GBR,
+Germany
+Italy
+Redbull
+Kiwis
+NZL
+Spain
+Swiss
+Sweden
+US
+LAB
+HSB
+high speed rudders
+light air rudders
+Cant
+Diff
+camber
+twist
+lead
+sheet
+rake
+rudder lift
+rudder average
+drop targets
+swap speed
+inverter
+inverter timing
+Dagger board
+chase mode
+True wind speed
+drop
+standby
+takeoff
+popping
+foiling
+rolling to windward
+windward heel
+Viking
+skimming
+H1
+H2
+puff
+lull
+pressure
+decrease
+bullit 
+header
+lift
+gusty
+chop
+gas
+dirty air
+righty
+lefty
+steady
+flat
